@@ -14,7 +14,7 @@ class DAO:
         cursor.execute(query)
 
         for row in cursor:
-            results.append(row["order_date"])
+            results.append(row["order_date "])
 
         first = results[0]
         last = results[-1]
