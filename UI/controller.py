@@ -21,7 +21,7 @@ class Controller:
 
     def handle_crea_grafo(self, e):
         """ Handler per gestire creazione del grafo """
-        # prova
+        # prova 2
         # TODO
 
     def handle_best_prodotti(self, e):
