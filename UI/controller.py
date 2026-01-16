@@ -20,7 +20,7 @@ class Controller:
         self._view.dp2.current_date = datetime.date(last.year, last.month, last.day)
 
     def handle_crea_grafo(self, e):
-        """ Handler per gestire creazione del grafo """
+        """ Handler per gestire creazione del grafo    """
         # prova 2
         # TODO
 
